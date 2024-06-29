@@ -62,7 +62,7 @@ OR
 
 
 *CLICK THIS 👇 BUTTON* <p align="centre">
-  <a href="https://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM">
+  <a href="https://chat.whatsapp.com/IudB4RhR1qPIh6PIXTQySP">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
 
@@ -72,7 +72,7 @@ OR
 ### TO JOIN OUR WHATSAPP CHANNEL 
 
 *CLICK THIS 👇 BUTTON* <p align="centre">
-  <a href="https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P">
+  <a href="https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L">
    <img align="centre" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
 ## `OWNER` 
