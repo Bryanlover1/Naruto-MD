@@ -75,9 +75,16 @@ OR
   <a href="https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P">
    <img align="centre" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
+## `OWNER` 
+<a href="https://github.com/Bryanlover1"><img src="https://github.com/Bryanlover1.png" width="250" height="250" alt="BRYANT TECH"/></a>
+
+  
    
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ***
 ### THANKS TO:
-- [***Bryant Tech***](https://github.com/Elsa2090) For several Cmds & Ideas.
+- [***King David***](https://github.com/Kingdavid3333) For several Cmds & Ideas.
+- [***Bryant Tech***](https://GitHub.com/Elsa2090) For Genaral Help and Brotherhood. 
+- [***France king***](https://github.com/Franceking1) For Code encryption. 
+- [***Gucci king***](https://github.com/Gucciking6) For Providing a Base of **VENOM-
