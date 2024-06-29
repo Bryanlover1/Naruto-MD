@@ -3,12 +3,12 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +FLASH-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+FRANCE+KING;RELEASED+22.2.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +NARUTO-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BRYAN+TECH;RELEASED+BY+TECH" alt="Typing SVG" /></a>
   </p>
     <img alt="NARUTO-MD" width="700" height="300" src="https://telegra.ph/file/0df9f7987438e559e99e2.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/Bryanlover1/Naruto-MD"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Bryanlover1/Naruto-MD"><img title="Author" src="https://img.shields.io/badge/NARUTO_MD-snowk?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Bryanlover1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Bryanlover1?label=Followers&style=social"></a>
