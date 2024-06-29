@@ -8,19 +8,19 @@
     <img alt="NARUTO-MD" width="700" height="300" src="https://telegra.ph/file/0df9f7987438e559e99e2.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/franceking1/Flash-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Bryanlover1/Naruto-MD"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/franceking1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+<a href="https://github.com/Bryanlover1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Bryanlover1?label=Followers&style=social"></a>
+<a href="https://github.com/Bryanlover1/Naruto-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Bryanlover1/Naruto-MD?&style=social"></a>
+<a href="https://github.com/Bryanlover1/Naruto-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Bryanlover1/Naruto-MD?style=social"></a>
+<a href="https://github.com/Bryanlover1/Naruto-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Bryanlover1/Naruto-MD?label=Watching&style=social"></a>
   
 ***
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Bryanlover1/Naruto-MD/fork) It***
 
 ***2.`Get Session ID` by [`SCANING QR`](https://scan-flash-md.onrender.com) OR [`PAIRING CODE`](https://flash-sessions.onrender.com/pair)***
 
