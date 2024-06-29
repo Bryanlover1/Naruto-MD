@@ -3,7 +3,7 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +NARUTO-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BRYAN+TECH;RELEASED+BY+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS+FOR+CHOOSING+NARUTO;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BRYAN+TECH;RELEASED+BY+TECH" alt="Typing SVG" /></a>
   </p>
     <img alt="NARUTO-MD" width="700" height="300" src="https://telegra.ph/file/0df9f7987438e559e99e2.jpg">
 <p align="center">
