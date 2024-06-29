@@ -24,6 +24,8 @@
 
 ***2.`Get Session ID` by [`SCANING QR`](https://165b2930-4e87-4af3-bdf2-3d12531191b0-00-3w1fbhp6dphqs.janeway.replit.dev/qr) OR [`PAIRING CODE`](https://replit.com/@bryanbotchway5/IBRAHIM-V30KE?v=1)***
 
+**we will be using my brother's session id for the time being**
+
 *-Copy The Session ID to paste it in Heroku*
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
