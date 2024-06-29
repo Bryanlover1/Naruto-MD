@@ -86,5 +86,5 @@ OR
 ### THANKS TO:
 - [***King David***](https://github.com/Kingdavid3333) For several Cmds & Ideas.
 - [***Bryant Tech***](https://GitHub.com/Elsa2090) For Genaral Help and Brotherhood. 
-- [***France king***](https://github.com/Franceking1) For Code encryption. 
-- [***Gucci king***](https://github.com/Gucciking6) For Providing a Base of **VENOM-
+- [***France king***](https://github.com/Franceking1) For Code addition. 
+- [***Gucci king***](https://github.com/Gucciking6) For Providing a Base of **NARUTO-MD
