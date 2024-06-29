@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Bryanlover1/Naruto-MD/fork) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://replit.com/@bryanbotchway5/IBRAHIM-V30KE) OR [`PAIRING CODE`](https://replit.com/@bryanbotchway5/IBRAHIM-V30KE)***
+***2.`Get Session ID` by [`SCANING QR`](https://replit.com/@bryanbotchway5/IBRAHIM-V30KE?v=1) OR [`PAIRING CODE`](https://replit.com/@bryanbotchway5/IBRAHIM-V30KE?v=1)***
 
 *-Copy The Session ID to paste it in Heroku*
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
