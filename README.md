@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Bryanlover1/Naruto-MD/fork) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://6a3b921c-ec2d-4f74-aef8-f38b6c7d0267-00-2wrm5wg7m7pl7.kirk.replit.dev/pair) OR [`PAIRING CODE`](https://replit.com/@bryanbotchway5/IBRAHIM-V30KE)***
+***2.`Get Session ID` by [`SCANING QR`](https://7f384254-ba7f-4e3a-b46d-b787cfed4537-00-1zj2v10kbijzd.spock.replit.dev/qr) OR [`PAIRING CODE`](https://replit.com/@bryanbotchway5/IBRAHIM-V30KE)***
 
 **we will be using my brother's session id for the time being**
 
