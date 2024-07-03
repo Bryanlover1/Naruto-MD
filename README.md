@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Bryanlover1/Naruto-MD/fork) It***
 
-***2.`Get Session ID` by all [`SESSION ID`](https://3983cd9b-a926-45fd-8624-40ab779c7e3f-00-1n6l14czs4tn8.kirk.replit.dev/)***
+***2.`Get Session ID` by all [`SESSION ID`](https://replit.com/@bryanbotchway5/Naruto-session-id)***
 
 **we will be using my brother's session id for the time being**
 
